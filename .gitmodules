@@ -1,0 +1,3 @@
+[submodule "myproject-copy"]
+	path = myproject-copy
+	url = https://github.com/mvp1/MyProject.git
